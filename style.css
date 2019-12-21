@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 56.5vh;
+}
+img{
+    margin-bottom: 20px;
+}
+input{
+    
+    width: 520px;
+    height: 40px;
+    border-radius: 25px;
+    font: 16px arial,sans-serif;
+    border: 1px solid #dfe1e5;
+    padding: 5px 8px 0 16px;
+    padding-left: 14px;
+
+
+}
+
+.buttons{
+    display:inline-flex;
+}
